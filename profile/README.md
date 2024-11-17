@@ -18,4 +18,4 @@ Keeping all old repositories from my BS degree at Rose-Hulman (2017-2021). Do en
 - CSSE432 - Computer networks (C)
 - ME430 - Mechatronics (Python, C++)
 - ME435 - Robotics engineering (Python, JS)
-- ME427 - CFD, propulsion systems, numerical methods
+- ME427 - CFD, propulsion systems, numerical methods (Matlab)

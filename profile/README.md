@@ -7,6 +7,7 @@ Keeping all old repositories from my BS degree at Rose-Hulman (2017-2021). Do en
 - :floppy_disk: [Bare metal OS from scratch](https://github.com/eckelsjd-rose-old/csse332)
 - :chess_pawn: [Chess robot](https://github.com/eckelsjd-rose-old/me430)
 - :bubbles: [Bubble bobble arcade game](https://github.com/eckelsjd-rose-old/csse220)
+- :heavy_division_sign: [Hundreds of equations](https://github.com/eckelsjd-rose-old/equations)
 
 ## Courses
 - CSSE120 - Introduction to programming (Python)
